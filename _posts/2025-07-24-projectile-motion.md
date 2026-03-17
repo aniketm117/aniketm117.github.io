@@ -2,8 +2,20 @@
 title: Projectile Motion
 date: 2025-07-24
 ---
+<!-- MathJax configuration for GitHub Pages -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+<script async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
-<a href = "https://aniketm117.github.io/github-pages-with-jekyll/">Back</a>
+<td style="text-align: left"><a href = "https://aniketm117.github.io">Back</a></td>
 
 ## Projectile Motion
 
